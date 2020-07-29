@@ -1,0 +1,3 @@
+Stop All activity on All after 00:01
+Start IE activity on All after 00:01
+Stop All activity on All after 00:01

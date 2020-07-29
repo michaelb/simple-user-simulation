@@ -1,0 +1,19 @@
+Hello,My name is John Smith      
+I believe my PC is totally safe and no one is keylogging me   
+
+ So I may take note of my gmail password just here: johnsmith1985     It's my surname and name plus my birth year   
+
+
+
+  You are welcome!          
+
+
+   Btw if you want to modify this file, please take care to not include special characters as they may invoke special keystrokes     
+
+
+           Following is a little lorem ipsum    
+
+
+
+
+   Lorem ipsum dolor sit amet.
